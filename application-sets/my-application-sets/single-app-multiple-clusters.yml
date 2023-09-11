@@ -1,0 +1,2 @@
+  generators:
+  - clusters: {} # Automatically use all clusters defined within Argo CD
